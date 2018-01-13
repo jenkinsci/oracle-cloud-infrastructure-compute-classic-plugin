@@ -1,5 +1,5 @@
 # Oracle Cloud Infrastructure Compute Classic Plugin
-[![Buil d Status](https://travis-ci.org/oracle/oci-compute-classic-jenkins-plugin.svg?branch=master)](https://travis-ci.org/oracle/oci-compute-classic-jenkins-plugin)
+[![Buil d Status](https://travis-ci.org/jenkinsci/oracle-cloud-infrastructure-compute-classic-plugin.svg?branch=master)](https://travis-ci.org/jenkinsci/oracle-cloud-infrastructure-compute-classic-plugin)
 
 Oracle Cloud Infrastructure Compute Classic Plugin allow Jenkins to create compute instances on Oracle Cloud Infrastructure (OCI) Compute Classic and start agents on them dynamically, according to job workload. When jobs finish and agents are idle for specified time, compute instances would be terminated and related cloud resources, eg, volumes, ip, etc,  would be recycled.  
 

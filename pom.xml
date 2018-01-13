@@ -10,7 +10,7 @@
   </parent>
   <groupId>org.jenkins-ci.plugins</groupId>
   <artifactId>oracle-cloud-infrastructure-compute-classic</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.0-SNAPSHOT</version>
   <packaging>hpi</packaging>
 
   <properties>
@@ -47,9 +47,9 @@
   </licenses>
 
   <scm>
-    <connection>scm:git:https://github.com/oracle/oci-compute-classic-jenkins-plugin</connection>
-    <developerConnection>scm:git:git@github.com:oracle/oci-compute-classic-jenkins-plugin.git</developerConnection>
-    <url>https://github.com/oracle/oci-compute-classic-jenkins-plugin</url>
+    <connection>scm:git:https://github.com/jenkinsci/oracle-cloud-infrastructure-compute-classic-plugin</connection>
+    <developerConnection>scm:git:git@github.com:jenkinsci/oracle-cloud-infrastructure-compute-classic-plugin.git</developerConnection>
+    <url>https://github.com/jenkinsci/oracle-cloud-infrastructure-compute-classic-plugin</url>
   </scm>
 
   <issueManagement>
